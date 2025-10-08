@@ -1,4 +1,4 @@
-# Coffee Shop Sales Dashboard — Power BI
+# Coffee Shop Sales Performance Dashboard — Power BI
 
 ## Project Overview
 This Power BI project analyzes sales performance for a coffee shop chain using transactional data obtained from Kaggle.  
